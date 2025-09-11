@@ -3,7 +3,6 @@ title: "Underground hydrogen storage: a recovery prediction using pore network m
 collection: publications
 category: manuscripts
 permalink: /publication/hydrogen-pnm
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2024-01-01
 venue: 'Fuel'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0016236123026650'
