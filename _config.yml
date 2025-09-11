@@ -14,7 +14,7 @@ name: &name "Qingqi Zhao"
 description: &description "Postdoctoral Researcher — groundwater modeling, PFAS transport, and scientific machine learning"
 
 # Use the AcademicPages theme (built on Minimal Mistakes)
-remote_theme: academicpages/academicpages
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 # If AcademicPages still doesn’t load, switch to the underlying theme:
 # remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
