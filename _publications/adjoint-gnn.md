@@ -1,5 +1,6 @@
 ---
 title: "An End-to-End Differentiable, Graph Neural Network-Embedded Pore Network Model for Permeability Prediction"
+layout: single
 collection: publications
 category: manuscripts
 permalink: /publication/adjoint-gnn
