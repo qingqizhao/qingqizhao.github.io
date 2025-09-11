@@ -45,7 +45,7 @@ author:
   bio        : "Postdoc at Stuttgart Center for Simulation Science, University of Stuttgart"
   location   : "Stuttgart, Germany"
   employer   : "University of Stuttgart"
-  uri        : "https://qingqizhao.github.io"
+  # uri        : "https://qingqizhao.github.io"
   email      : "qingqi.zhao@itlr.uni-stuttgart.de" 
 
   # Academic websites
