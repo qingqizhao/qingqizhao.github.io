@@ -1,7 +1,7 @@
 ---
 title: "Numerical simulation of the impact of different cushion gases on underground hydrogen storage in aquifers based on an experimentally-benchmarked equation-of- state."
 collection: publications
-category: publications
+category: manuscripts
 permalink: /publication/hydrogen-reservoir
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2024
