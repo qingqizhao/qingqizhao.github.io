@@ -1,35 +1,52 @@
 ---
-title: "About"
+permalink: /
+title: "Qingqi Zhao"
 layout: single
-permalink: /about/
 author_profile: true
+redirect_from:
+  - /about/
+  - /about.html
 ---
 
 ## About me
 
-I am a **Postdoctoral Researcher at the University of Stuttgart**, working at the Stuttgart Center for Simulation Science.  
-My research focuses on **data-driven and physics-informed modeling of subsurface flows**, with applications to:
+I am a **Postdoctoral Researcher at the University of Stuttgart** (Stuttgart Center for Simulation Science).  
+My work focuses on **data-driven and physics-informed modeling of subsurface flows**, including:
 
 - Groundwater modeling and simulation  
 - Underground hydrogen storage  
 - PFAS transport modeling  
 
-My broader research interests include **scientific machine learning, data assimilation, uncertainty quantification, and subsurface flow simulation**, with relevance to **environmental and energy challenges** such as underground hydrogen storage, groundwater contamination, and carbon sequestration.  
+**Research interests:** scientific machine learning; data assimilation; uncertainty quantification; subsurface flow simulation; and environment & energy applications (underground hydrogen storage, groundwater contamination, and carbon sequestration).
 
 ---
 
 ## Education
 
-- **Ph.D. in Civil Engineering**, Stevens Institute of Technology, Hoboken, NJ, USA (Aug 2021 – May 2024)  
-- **Research Assistant in Mining Engineering**, Virginia Tech, Blacksburg, VA, USA (Aug 2020 – Aug 2021)  
-- **M.S. in Petroleum Engineering**, The University of Tulsa, Tulsa, OK, USA (Aug 2018 – May 2020)  
-- **B.S. in Petroleum Engineering**, China University of Petroleum (East China), Qingdao, China (Sept 2014 – June 2018)  
+- **Stevens Institute of Technology**, Hoboken, NJ, USA — *Ph.D. in Civil Engineering*  
+  *Aug 2021 – May 2024*
+- **Virginia Tech**, Blacksburg, VA, USA — *Research Assistant in Mining Engineering*  
+  *Aug 2020 – Aug 2021*
+- **The University of Tulsa**, Tulsa, OK, USA — *M.S. in Petroleum Engineering*  
+  *Aug 2018 – May 2020*
+- **China University of Petroleum (East China)**, Qingdao, China — *B.S. in Petroleum Engineering*  
+  *Sept 2014 – June 2018*
 
 ---
 
 ## Professional Experience
 
-- **Postdoctoral Researcher**, Stuttgart Center for Simulation Science, University of Stuttgart (May 2024 – present)  
-  Focus: Data-driven, physics-informed approaches for modeling subsurface flows.  
+- **Postdoctoral Researcher**, Stuttgart Center for Simulation Science, University of Stuttgart  
+  *May 2024 – present* — Data-driven, physics-informed approaches for modeling subsurface flows.
+
+<details>
+<summary><strong>Template & source (optional)</strong></summary>
+
+This site uses the Academic Pages template (fork of Minimal Mistakes).  
+- Template: <https://github.com/academicpages/academicpages.github.io>  
+- Minimal Mistakes: <https://mmistakes.github.io/minimal-mistakes/>
+
+</details>
+ 
 
 
