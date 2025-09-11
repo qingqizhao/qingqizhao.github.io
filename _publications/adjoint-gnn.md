@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/adjoint-gnn
 excerpt: 'This paper introduces a differentiable, GNN-embedded pore network model for bulk permeability prediction.'
 header:
-  image: "/images/gnn-pnm.png"
+  image: "/images/adjoint-pnm.pdf"
   caption: "Graph Neural Network-Embedded Pore Network Model"
 date: 2025-09-01
 venue: 'Preprint · ESS Open Archive'
