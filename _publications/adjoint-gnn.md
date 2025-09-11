@@ -1,14 +1,14 @@
 ---
-title: "An End-to-End Differentiable, Graph Neural Network-Embedded Pore Net- work Model for Permeability Prediction"
+title: "An End-to-End Differentiable, Graph Neural Network-Embedded Pore Network Model for Permeability Prediction"
 collection: publications
 category: manuscripts
 permalink: /publication/adjoint-gnn
-excerpt: 'This paper introduces a differentiable, GNN-embedded pore network model for bulk permeability prediction.'
+excerpt: "This paper presents a hybrid modeling framework that embeds a graph neural network (GNN) into a pore network model (PNM) for permeability prediction. By replacing analytical conductance formulas with GNN-predicted values, the model preserves physical consistency while eliminating idealized geometric assumptions. The end-to-end differentiable architecture, enabled by a discrete adjoint method, allows training solely from bulk permeability data without requiring pore-scale labels, achieving high accuracy, scalability, and physically interpretable feature sensitivities."
 header:
-  image: "/images/adjoint-pnm.pdf"
-  caption: "Graph Neural Network-Embedded Pore Network Model"
+  image: "/images/adjoint-pnm.png"
+  caption: "Overview of the proposed GNN-embedded pore network model: a graph neural network predicts pore-throat conductances from node and edge features, which are then passed into a physics-based PNM solver to compute bulk permeability. End-to-end training is achieved via the adjoint method, enabling accurate and generalizable predictions across scales while retaining physical interpretability."
 date: 2025-09-01
 venue: 'Preprint · ESS Open Archive'
 paperurl: 'https://essopenarchive.org/users/960205/articles/1329010-an-end-to-end-differentiable-graph-neural-network-embedded-pore-network-model-for-permeability-prediction'
-citation: 'Qingqi Zhao, Heng Xiao. An End-to-End Differentiable, Graph Neural Network-Embedded Pore Network Model for Permeability Prediction. ESS Open Archive . September 01, 2025.'
+citation: 'Qingqi Zhao, Heng Xiao. An End-to-End Differentiable, Graph Neural Network-Embedded Pore Network Model for Permeability Prediction. ESS Open Archive. September 01, 2025.'
 ---
