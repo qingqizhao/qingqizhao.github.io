@@ -1,7 +1,7 @@
 ---
 title: "An End-to-End Differentiable, Graph Neural Network-Embedded Pore Net- work Model for Permeability Prediction"
 collection: publications
-category: publications
+category: manuscripts
 permalink: /publication/adjoint-gnn
 excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
 date: 2025
