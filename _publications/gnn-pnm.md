@@ -1,7 +1,7 @@
 ---
 title: "A Computationally Efficient Hybrid Neural Network Architecture for Porous Media: Integrating Convolutional and Graph Neural Networks for Improved Property Predictions"
 collection: publications
-category: publications
+category: manuscripts
 permalink: /publication/gnn-pnm
 excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
 date: 2025
