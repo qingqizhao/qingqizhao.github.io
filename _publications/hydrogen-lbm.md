@@ -1,7 +1,7 @@
 ---
 title: "Using X-ray computed tomography and pore-scale numerical modeling to study the role of heterogeneous rock surface wettability on hydrogen-brine two-phase flow in underground hydrogen storage."
 collection: publications
-category: publications
+category: manuscripts
 permalink: /publication/hydrogen-lbm
 excerpt: 'This paper is about fixing template issue #693.'
 date: 2024
