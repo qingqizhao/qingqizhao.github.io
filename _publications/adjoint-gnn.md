@@ -18,3 +18,4 @@ paperurl: "https://essopenarchive.org/users/960205/articles/1329010-an-end-to-en
 citation: "Qingqi Zhao, Heng Xiao. An End-to-End Differentiable, Graph Neural Network-Embedded Pore Network Model for Permeability Prediction. ESS Open Archive. September 01, 2025."
 ---
 
+
