@@ -26,7 +26,7 @@ author:
   avatar     : "profile.jpg"  # put an image at /images/profile.png or /assets/images/profile.png and update this path
   name       : "Qingqi Zhao"
   pronouns   :                # optional
-  bio        : "I build physics-based and data-driven models for subsurface flow, focusing on groundwater modeling, underground hydrogen storage, PFAS transport, and scientific ML."
+  bio        : "Postdoc at Stuttgart Center for Simulation Science, University of Stuttgart"
   location   : "Stuttgart, Germany"
   employer   : "University of Stuttgart"
   uri        : "https://qingqizhao.github.io"
