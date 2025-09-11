@@ -4,6 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/adjoint-gnn
 excerpt: "This paper presents a hybrid modeling framework that embeds a graph neural network (GNN) into a pore network model (PNM) for permeability prediction. By replacing analytical conductance formulas with GNN-predicted values, the model preserves physical consistency while eliminating idealized geometric assumptions. The end-to-end differentiable architecture, enabled by a discrete adjoint method, allows training solely from bulk permeability data without requiring pore-scale labels, achieving high accuracy, scalability, and physically interpretable feature sensitivities."
+image: "/images/adjoint-pnm.png"
 header:
   image: "/images/adjoint-pnm.png"
   caption: "Overview of the proposed GNN-embedded pore network model: a graph neural network predicts pore-throat conductances from node and edge features, which are then passed into a physics-based PNM solver to compute bulk permeability. End-to-end training is achieved via the adjoint method, enabling accurate and generalizable predictions across scales while retaining physical interpretability."
