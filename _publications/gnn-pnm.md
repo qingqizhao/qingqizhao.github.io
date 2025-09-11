@@ -4,6 +4,9 @@ collection: publications
 category: manuscripts
 permalink: /publication/gnn-pnm
 excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
+header:
+  image: "/images/gnn-pnm.png"
+  caption: "aaa"
 date: 2025-01-01
 venue: 'Advances in Water Resources'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0309170824002689'
