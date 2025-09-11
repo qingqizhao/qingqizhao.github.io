@@ -39,14 +39,7 @@ My work focuses on **data-driven and physics-informed modeling of subsurface flo
 - **Postdoctoral Researcher**, Stuttgart Center for Simulation Science, University of Stuttgart  
   *May 2024 – present* — Data-driven, physics-informed approaches for modeling subsurface flows.
 
-<details>
-<summary><strong>Template & source (optional)</strong></summary>
 
-This site uses the Academic Pages template (fork of Minimal Mistakes).  
-- Template: <https://github.com/academicpages/academicpages.github.io>  
-- Minimal Mistakes: <https://mmistakes.github.io/minimal-mistakes/>
-
-</details>
  
 
 
