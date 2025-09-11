@@ -1,7 +1,7 @@
 ---
 title: "Underground hydrogen storage: a recovery prediction using pore network modeling and machine learning."
 collection: publications
-category: publications
+category: manuscripts
 permalink: /publication/hydrogen-pnm
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2024
