@@ -7,17 +7,32 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
-# site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Qingqi Zhao"
+locale: "en-US"
+
+title: "Qingqi Zhao"
+name: &name "Qingqi Zhao"
+description: &description "Postdoctoral Researcher — groundwater modeling, PFAS transport, and scientific machine learning"
+
+# Use the AcademicPages theme (built on Minimal Mistakes)
 remote_theme: academicpages/academicpages
-title_separator          : "-"
-name                     : &name "Qingqi Zhao"
-description              : &description "Postdoctoral Researcher — groundwater modeling, PFAS transport, and scientific machine learning"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://qingqizhao.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
-                                                           # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "qingqizhao/qingqizhao.github.io"
+# If AcademicPages still doesn’t load, switch to the underlying theme:
+# remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+
+url: https://qingqizhao.github.io
+baseurl: ""          # MUST be empty for user sites
+
+repository: "qingqizhao/qingqizhao.github.io"
+
+# GitHub Pages–allowed plugins used by AcademicPages/Minimal Mistakes
+plugins:
+  - jekyll-include-cache
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-redirect-from
+  - jemoji
+  - jekyll-paginate
+  - jekyll-seo-tag
+
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
