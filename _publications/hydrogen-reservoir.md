@@ -4,6 +4,9 @@ collection: publications
 category: manuscripts
 permalink: /publication/hydrogen-reservoir
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+header:
+  image: "/images/hydrogen-reservoir.jpg.png"
+  caption: "Graph Neural Network-Embedded Pore Network Model"
 date: 2024-01-01
 venue: 'International Journal of Hydrogen Energy'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0360319923037692'
