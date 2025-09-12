@@ -39,7 +39,7 @@ plugins:
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar     : "profile.jpg"  # put an image at /images/profile.png or /assets/images/profile.png and update this path
+  avatar     : "profile.png"  # put an image at /images/profile.png or /assets/images/profile.png and update this path
   name       : "Qingqi Zhao"
   pronouns   :                # optional
   bio        : "Postdoc at Stuttgart Center for Simulation Science, University of Stuttgart"
